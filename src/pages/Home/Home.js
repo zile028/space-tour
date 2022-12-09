@@ -7,11 +7,7 @@ const style = {
 };
 
 function Home() {
-  return (
-    <section style={style} className="home-wraper">
-      Home
-    </section>
-  );
+  return <section style={style} className="home-wraper"></section>;
 }
 
 export default Home;
